@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
     var singer = [
-      "Beyonce", "Lady Gaga", "Taylor Swift", "Madonna", 
+      "Beyonce", "Lady Gaga", "Taylor Swift", 
     ];
   
     // function to make buttons and add to page
